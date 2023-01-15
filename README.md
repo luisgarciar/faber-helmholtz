@@ -17,4 +17,4 @@ The folder `new_experiments` contains a variety of numerical experiments for Hel
 
 ## References
 
-[GRSN21] L. García Ramos, O. Sète, [Precondition- ing the Helmholtz equation with the shifted Laplacian and Faber polynomials,](https://etna.math.kent.edu/vol.54.2021/pp534-557.dir/pp534-557.pdf) Electronic Transactions on Numerical Analysis 54, pp. 534-557, 2021.
+[GRSN21] L. Garc‚Äôa Ramos, O. S√®te, R. Nabben [Preconditioning the Helmholtz equation with the shifted Laplacian and Faber polynomials,](https://etna.math.kent.edu/vol.54.2021/pp534-557.dir/pp534-557.pdf) Electronic Transactions on Numerical Analysis 54, pp. 534-557, 2021.
